@@ -195,6 +195,7 @@ The six major areas of data science include the following:
 | [Various Plots using Matplot,Seaborn,Pandas](Various%20Plots%20using%20Matplot%2CSeaborn%2CPandas) |
 | [Weather Prediction](Weather%20Prediction) |
 | [XgBoost_Algorithm](XgBoost_Algorithm) |
+| [heart failure](heart%20failure) |
 | [recommendation_system](recommendation_system) |
 | [Beautiful Soup.ipynb](Beautiful%20Soup.ipynb) |
 | [Ensemble learning.docx](Ensemble%20learning.docx) |
